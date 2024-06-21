@@ -6,6 +6,7 @@ public class Kamlesh_kumari {
 		// TODO Auto-generated method stub
 System.out.println("Hello test");
 System.out.println("Hello test");
+		System.out.println("Hello test3");
 	}
 
 }
